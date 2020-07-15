@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![pose](https://user-images.githubusercontent.com/33443452/87488280-f1b0ed00-c60d-11ea-8f3f-c5d205eb0a07.jpg)
 <!--
 **carolninganga/carolninganga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
